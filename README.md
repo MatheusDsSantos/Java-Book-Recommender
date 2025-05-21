@@ -16,7 +16,8 @@ Retorna os integrantes responsáveis pela criação do projeto.
 
 ```json
 [
-    {"nome": "Matheus Henrique"}
+    {"nome": "Matheus Henrique"},
+    {"nome": "Bianca Fernandes"}
 ]
 ```
 
